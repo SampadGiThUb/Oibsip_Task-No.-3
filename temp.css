@@ -1,0 +1,48 @@
+.container {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    margin-top: 0;
+    margin-bottom: 30px;
+    color: #360b0b;
+  }
+  
+  form div {
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: inline-block;
+    width: 100px;
+    text-align: left;
+    color: #8f2828;
+  }
+  
+  input[type="number"],
+  input[type="text"],
+  select {
+    padding: 5px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    color: #333;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #360b0b;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #8f2828;
+  }
+  
